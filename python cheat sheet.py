@@ -1,5 +1,3 @@
-"""Basic Python Cheat Sheet by Filip Kral on 2015/02/16"""
- 
 """
 Python is a cross-platform, interpreted, object-oriented programming language.
 That means you can run it on Linux, Windows, Mac, and other platforms,
